@@ -347,7 +347,7 @@ namespace Alarm
 			// notifyIcon1
 			//
 			this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
-			this.notifyIcon1.Icon = new System.Drawing.Icon(@".ico files\Plants vs. Zombies.ico");			
+			this.notifyIcon1.Icon = new System.Drawing.Icon(@".\.ico files\alarm.ico");			
 			this.notifyIcon1.Text = "Alarm";
 			this.notifyIcon1.Visible = false;
 			this.notifyIcon1.BalloonTipTitle = "Alarm";
