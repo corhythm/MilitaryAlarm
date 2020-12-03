@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\ㄱㅅㅇ\\2020 3학년 2학기\\2020-2 알고리즘\\Basic Data Structure"
+		},
+		{
+			"path": "..\\..\\2020 3학년 2학기\\2020-2 알고리즘\\Basic Data Structure\\.vscode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
