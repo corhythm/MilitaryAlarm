@@ -5,3 +5,12 @@ https://www.youtube.com/watch?v=vpKdPT8zmxA
 조금이라도 늦게 보내면 간부들한테 쿠사리가 들어오기에 자고 있다가 알람 울리면 PRE 위치보고 보내고 다시 잠을 청하였다
 군대는 인트라넷밖에 안 되기 때문에 코드는 C#으로 짜고 윈도우에 기본적으로 깔려있는 .Net Framework로 컴파일 했다.
 WinForm 이용
+
+[기본 UI: STOP(알람 중지), Add(알람 추가), Delete(알람 삭제), Edit(알람 편집), Exit(나가기)
+![image](https://user-images.githubusercontent.com/43941383/102480446-a1015c80-40a3-11eb-9c13-be5c16b010d6.png)
+
+
+![image](https://user-images.githubusercontent.com/43941383/102480561-c8f0c000-40a3-11eb-9fae-ef7be62b7209.png)
+![image](https://user-images.githubusercontent.com/43941383/102480632-df971700-40a3-11eb-912d-91020136611a.png)
+![image](https://user-images.githubusercontent.com/43941383/102480658-efaef680-40a3-11eb-93ce-019a2e30b149.png)
+![image](https://user-images.githubusercontent.com/43941383/102480752-15d49680-40a4-11eb-972b-dfd3443df790.png)
