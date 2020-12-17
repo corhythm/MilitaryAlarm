@@ -10,7 +10,21 @@ WinForm 이용
 ![image](https://user-images.githubusercontent.com/43941383/102480446-a1015c80-40a3-11eb-9c13-be5c16b010d6.png)
 
 
+
+[알람 추가]
 ![image](https://user-images.githubusercontent.com/43941383/102480561-c8f0c000-40a3-11eb-9fae-ef7be62b7209.png)
+
+
+
+[추가된 알람]
 ![image](https://user-images.githubusercontent.com/43941383/102480632-df971700-40a3-11eb-912d-91020136611a.png)
+
+
+
+[삭제하고 싶은 알람 체크하고 일괄 삭제할 수 있다]
 ![image](https://user-images.githubusercontent.com/43941383/102480658-efaef680-40a3-11eb-93ce-019a2e30b149.png)
+
+
+
+[최소화 버튼을 누르면 minimize 되어서 트레이 아이콘이 생성되고 백그라운드로 실행이 된다. 알람 시간이 되면 알람 박스가 뜨면서 알림이 울린다]
 ![image](https://user-images.githubusercontent.com/43941383/102480752-15d49680-40a4-11eb-972b-dfd3443df790.png)
